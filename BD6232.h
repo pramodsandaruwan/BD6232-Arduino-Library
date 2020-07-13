@@ -20,7 +20,6 @@ class BD6232{
   private:
     int INA;
     int INB;
-    int INC;
 };
 
 #endif
