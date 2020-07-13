@@ -1,6 +1,6 @@
 /*
   BD6232 Library
-  
+  Testing git
   V1.0 Jan.17.2020 by Pramod Sandaruwan
 */
 
@@ -20,6 +20,7 @@ class BD6232{
   private:
     int INA;
     int INB;
+    int INC;
 };
 
 #endif
